@@ -1,5 +1,7 @@
 # Introduction to Python at Data Science Retreat 
 
+## [About Me (and you)](https://github.com/utstikkar/Intro_to_Python_DSR/blob/master/0.%20About%20Me.ipynb)
+
 ## Topics:
 [1. Introduction](https://github.com/utstikkar/Intro_to_Python_DSR/blob/master/1.%20Introduction%20to%20Python.ipynb): 
   - Data Types 
