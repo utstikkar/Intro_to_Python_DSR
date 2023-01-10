@@ -13,7 +13,7 @@
   - Navigating the File System
   - Reading and Saving Files
 
-[3. Functions](https://github.com/utstikkar/Intro_to_Python_DSR/blob/master/3.%20Functions%20.ipynb):
+[3. Functions](https://github.com/utstikkar/Intro_to_Python_DSR/blob/master/3.%20Functions.ipynb):
   - Writing Functions 
   - Parameters and Arguments 
 
